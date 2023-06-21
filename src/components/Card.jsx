@@ -1,8 +1,8 @@
-import React from 'react';
 import './Card.css';
+import PropTypes from 'prop-types'
 
-const Card = (props) => {
-    const { plato } = props;
+const Card = ({plato}) => {
+    //const { plato } = props;
     return(
     <div className="card">
       <img src={plato.imagen} alt="" className="card-image" />
@@ -13,6 +13,10 @@ const Card = (props) => {
       </div>
     </div>
   );
+}
+
+Card.propTypes = {
+  plato: PropTypes.object.isRequired,
 }
 
 export default Card;

@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import './Nav.css'
 
 const Nav = ({ handleBeersClick, handleFoodClick }) => {
@@ -9,6 +10,11 @@ const Nav = ({ handleBeersClick, handleFoodClick }) => {
       </li>
     </nav>
   )
+}
+
+Nav.propTypes = {
+  handleBeersClick: PropTypes.func.isRequired,
+  handleFoodClick: PropTypes.func.isRequired,
 }
 
 export default Nav;
