@@ -1,0 +1,39 @@
+{
+  "beers": [
+    {
+      "nombre": "American IPA",
+      "descripcion": "Cerveza artesanal extra lupulada con aroma cítrico y tropical. Intenso y amargo, con notas de frutas exóticas y final refrescante. Una opción única para los amantes de la cerveza con un toque distintivo. Perfecta para días calurosos y comidas sabrosas. ¡Disfrútala ahora!.",
+      "precio": "S/. 16.00",
+      "imagen": "./src/assets/ipa.png",
+      "maridaje": "Red ale"
+    },
+    {
+      "nombre": "Red Ale",
+      "descripcion": "Descubre nuestra cerveza artesanal irlandesa rojiza y acaramelada. Suave y equilibrada, con un toque ahumado y notas a nueces. Una opción deliciosa y única para cualquier ocasión. ¡Prueba esta cerveza artesanal y déjate sorprender!",
+      "precio": "S/. 16.00",
+      "imagen": "./src/assets/red_ale_2.png",
+      "maridaje": "IPA"
+    },
+    {
+      "nombre": "Dunkel trigo",
+      "descripcion": "Descubre nuestra cerveza artesanal Witbier belga. Alta expresión de levadura y especias cítricas. Acidez ligera y sensación refrescante. Color dorado turbio. Perfecta para cualquier ocasión. Sabor afrutado y suave. ¡Una cerveza de carácter pero fácil de beber! ¡Disfrútala ahora!",
+      "precio": "S/. 16.00",
+      "imagen": "./src/assets/trigo.png",
+      "maridaje": "Dunkel trigo"
+    },
+    {
+      "nombre": "Black Ale",
+      "descripcion": "Descubre nuestra porter oscura y refinada. Sabor intenso a café y notas de chocolate. Aroma suave y seductor. Ideal para compartir en una velada. Una opción sofisticada y deliciosa para disfrutar en cualquier momento. ¡Prueba esta cerveza artesanal y déjate cautivar!",
+      "precio": "S/. 16.00",
+      "imagen": "./src/assets/black.png",
+      "maridaje": "Red ale"
+    },
+    {
+      "nombre": "Tupac Strong Golden Ale",
+      "descripcion": "Descubre nuestra cerveza artesanal Tupac Strong Golden Ale. Con un 8.5% de alcohol, esta cerveza de tipo Strong Golden Ale es intensa y dorada. Su sabor complejo y equilibrado te cautivará. Una opción audaz y deliciosa para los amantes de las cervezas fuertes. ¡Disfrútala ahora!",
+      "precio": "S/. 16.00",
+      "imagen": "https://ejemplo.com/tacos.jpg",
+      "maridaje": "Black Ale"
+    }
+  ]
+}

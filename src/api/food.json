@@ -1,0 +1,39 @@
+{
+  "platos": [
+    {
+      "nombre": "Rebeldía - Beef burger",
+      "descripcion": "Carne reposada en especias, vegetales frescos, queso Edam derretido, aros de cebollas caramelizadas y champiñones.",
+      "precio": "S/. 21.00",
+      "imagen": "./src/assets/rebeldia-min.jpg",
+      "maridaje": "Red ale"
+    },
+    {
+      "nombre": "Alitas BBQ - Chicken Wings",
+      "descripcion": "6 Alitas de pollo maceradas con black ale, salsa BBQ de tomates orgánicos, acompañada de vegetales y papas andinas.",
+      "precio": "S/. 19.00",
+      "imagen": "./src/assets/alitas-min.jpg",
+      "maridaje": "IPA"
+    },
+    {
+      "nombre": "Tequeños - Corn & cheese sticks",
+      "descripcion": "Rollitos artesanales de maiz, rellenos de queso y acompañados de salsa de palta y sachatomate picoso.",
+      "precio": "S/. 12.00",
+      "imagen": "./src/assets/tequeños-min.jpg",
+      "maridaje": "Dunkel trigo"
+    },
+    {
+      "nombre": "Valle verde - Vegetarian burger",
+      "descripcion": "Emapanizado de lenteja y especias, vegetales frescos, aros de cebolla caramelizada y deliciosa palta de la casa.",
+      "precio": "S/. 19.00",
+      "imagen": "./src/assets/verde-min.jpg",
+      "maridaje": "Red ale"
+    },
+    {
+      "nombre": "Anticuchos - Meat brochette",
+      "descripcion": "2 Brochetas de carne de corazón de res, maceradas en salsa de naranja y ajo, acompañadas de papas andinas y choclo de la casa.",
+      "precio": "S/. 17.00",
+      "imagen": "./src/assets/anticucho-min.jpg",
+      "maridaje": "Black Ale"
+    }
+  ]
+}

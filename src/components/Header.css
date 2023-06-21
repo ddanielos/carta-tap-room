@@ -1,0 +1,48 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 30px;
+  width: 90%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.logo{
+  width: 106px;
+  height: 115px;
+}
+
+.contentTitle {
+  display: flex;
+  margin: auto;
+  margin-right: 0;
+  flex-direction: column;
+  text-align: right;
+}
+
+.title {
+  margin: 0;
+  font-family: 'Lydian BT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  /* identical to box height */
+  letter-spacing: 0.09em;
+  color: #E6D5B8;
+}
+
+.slogan {
+  margin: 0;
+  font-family: 'Lydian BT';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.085em;
+
+  color: #F0A500;
+}
+
+
+
